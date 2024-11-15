@@ -3,7 +3,9 @@
 ## Resume
 [![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1lifOK0leWmYFWNUg22YjyBBXHzE0b7ln/view?usp=sharing)
 
-
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/sujal agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal agrawal" height="30" width="40" /></a>
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sujal___Agrawal/)
