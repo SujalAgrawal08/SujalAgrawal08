@@ -32,11 +32,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaks-github&show_icons=true&locale=en&layout=compact" alt="deepaks-github" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SujalAgrawal08&show_icons=true&locale=en&layout=compact" alt="SujalAgrawal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaks-github&show_icons=true&locale=en" alt="deepaks-github" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SujalAgrawal08&show_icons=true&locale=en" alt="SujalAgrawal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaks-github&" alt="deepaks-github" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalAgrawal08&" alt="SujalAgrawal" /></p>
 
 <div align="right">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
