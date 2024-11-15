@@ -4,7 +4,6 @@
 [![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1lifOK0leWmYFWNUg22YjyBBXHzE0b7ln/view?usp=sharing)
 
 ## Connect with me
-<p align="left">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujalagrawal08)]
   
 ## Coding Profiles
