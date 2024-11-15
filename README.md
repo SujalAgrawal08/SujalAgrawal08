@@ -5,7 +5,7 @@
 
 ## Connect with me
 <p align="left">
-[![Linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](www.linkedin.com/in/sujalagrawal08)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujalagrawal08)]
   
 ## Coding Profiles
 
