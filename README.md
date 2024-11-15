@@ -5,7 +5,7 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/sujal agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal agrawal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sujalagrawal08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujal agrawal" height="30" width="40" /></a>
   
 ## Coding Profiles
 
