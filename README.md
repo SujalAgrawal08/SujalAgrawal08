@@ -37,7 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SujalAgrawal08&show_icons=true&locale=en" alt="SujalAgrawal" /></p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SujalAgrawal08)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SujalAgrawal08)](https://git.io/streak-stats)
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
