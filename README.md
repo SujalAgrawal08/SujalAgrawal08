@@ -43,4 +43,4 @@
 </div>
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&theme=merko)
