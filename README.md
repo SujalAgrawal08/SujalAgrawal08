@@ -1,7 +1,7 @@
 <img width="100%" height = "100%" src="./Linkedin banner.png" />
 
 ## Resume
-[![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1l-gXxfIQA0GZKp8oKnz8Egjc_Z1_ChZB/view?usp=sharing)
+[![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/14swDZSw6ZMKC4l9OcZiNy0w3SqITYFsr/view?usp=sharing)
 
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalagrawal08)
