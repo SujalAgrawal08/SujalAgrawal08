@@ -9,7 +9,7 @@
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sujal___Agrawal/)
-[![Geeks For Geeks](https://img.shields.io/badge/GFG-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.geeksforgeeks.org/user/sujalagrawal08/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/sujalagrawal08/)
 
 ## Skills
 
