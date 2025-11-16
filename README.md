@@ -1,7 +1,7 @@
 <img width="100%" height = "100%" src="./Linkedin banner.png" />
 
 ## Resume
-[![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/14swDZSw6ZMKC4l9OcZiNy0w3SqITYFsr/view?usp=sharing)
+[![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing)
 
 ## Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalagrawal08)
@@ -9,6 +9,7 @@
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sujal___Agrawal/)
+[![Geeks For Geeks](https://img.shields.io/badge/GFG-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.geeksforgeeks.org/user/sujalagrawal08/)
 
 ## Skills
 
