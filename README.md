@@ -1,11 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=11F7E0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sujal+Agrawal+👋;Software+Developer;MERN+Stack+Specialist;C%2B%2B+Problem+Solver;Let's+build+something+amazing!" alt="Sujal Agrawal - Software Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=11F7E0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sujal+Agrawal;Apiring+SDE;FULL+Stack+Web+Developer;C%2B%2B+Problem+Solver;Let's+build+something+amazing!" alt="Sujal Agrawal - Software Developer" />
 </div>
 
-<p align="center">
+###
+
+<div align="left">
   <a href="https://linkedin.com/in/sujalagrawal08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
   <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
   </a>
@@ -15,17 +18,14 @@
   <a href="https://www.geeksforgeeks.org/user/sujalagrawal08/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksForGeeks"/>
   </a>
-</p>
-
-<div align="center">
-  <p>
-    I am a results-driven <b>Software Developer</b> specializing in the <b>MERN stack</b> and <b>C++</b>. I thrive on translating complex problems into efficient, scalable code. I'm passionate about building modern web applications and continuously honing my algorithmic problem-solving skills.
-  </p>
 </div>
+
+
+<h2 align="center">Hey there! I’m Sujal Agrawal, currently a pre-final year student at IIIT Una, and I’m on the path to becoming a Software Development Engineer (SDE). I’ve got a solid grip on C++, JavaScript, and the ins and outs of modern full-stack development.</h2>
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 > This is what recruiters want to see. **Please fill this in!**
 
@@ -84,63 +84,63 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Languages & Core</h3>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-        <br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <br>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-        <br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-        <br>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-        <br>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Backend & Database</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-        <br>
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-        <br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </p>
-    </td>
-  </tr>
-</table>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-## 📊 My GitHub Stats
+###
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SujalAgrawal08&show_icons=true&locale=en&theme=github_dark" alt="SujalAgrawal Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SujalAgrawal08&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="SujalAgrawal Top Langs" />
-</p>
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&theme=github-dark" alt="GitHub Activity Graph" />
-</p>
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SujalAgrawal08&theme=github-dark" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujalAgrawal08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SujalAgrawal08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SujalAgrawal08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<br>
-<img width="100%" height="100%" src="./Linkedin banner.png" alt="LinkedIn Banner" />
+
+###
+
+<div align="center">
+  <img height="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
