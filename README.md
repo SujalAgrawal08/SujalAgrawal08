@@ -6,19 +6,19 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/sujalagrawal08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank" />
   </a>
-  &nbsp; &nbsp;
+  &nbsp;
   <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Resume-101010?style=for-the-badge&logo=read-the-docs&logoColor=FF5722" target="_blank" />
   </a>
-  &nbsp; &nbsp;
+  &nbsp;
   <a href="https://leetcode.com/u/Sujal___Agrawal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+    <img src="https://img.shields.io/badge/LeetCode-101010?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
   </a>
-  &nbsp; &nbsp;
+  &nbsp;
   <a href="https://www.geeksforgeeks.org/user/sujalagrawal08/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-101010?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46" target="_blank" />
   </a>
 </div>
 
