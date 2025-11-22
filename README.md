@@ -174,3 +174,8 @@
 <div align="center">
   <img height="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
+
+###
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&theme=github-dark" alt="GitHub Activity Graph" />
+</p>
