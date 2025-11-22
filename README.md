@@ -178,5 +178,5 @@
 
 ###
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&theme=github-dark" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
