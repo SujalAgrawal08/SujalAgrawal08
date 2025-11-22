@@ -32,8 +32,7 @@
     <td width="60%" valign="top">
       <h3>1. DocBrief</h3>
       <blockquote>
-        - Engineered AI legal summarizer using Hugging Face BART, improving comprehension speed by 40%.
-        - Built OCR pipeline with Tesseract + pdfplumber for high-fidelity PDF parsing with 95% text recognition
+        DocBrief is an AI-powered web application that simplifies lengthy documents into concise, machine-readable summaries. It also provides intelligent chatbot assistance for document-related queries.
 accuracy.
       </blockquote>
       <p>
@@ -58,16 +57,16 @@ accuracy.
 
   <tr>
     <td width="60%" valign="top">
-      <h3>2. Project Name (e.g., "Social Media App")</h3>
+      <h3>2. CodeRobo</h3>
       <blockquote>
-        A 1-2 sentence description. (e.g., "A 'Twitter-clone' built with Next.js, allowing users to post, comment, and like in real-time using WebSocket integration.")
+        CodeRobo is an AI-powered code generation and collaboration platform. It allows developers to instantly generate full-stack projects, collaborate in real-time, preview code live, and export or deploy their work with a single click.
       </blockquote>
       <p>
-        <a href="[LINK_TO_YOUR_LIVE_DEMO]" target="_blank">
+        <a href="https://code-robo.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge" alt="Live Demo"/>
         </a>
         &nbsp;
-        <a href="[LINK_TO_YOUR_GITHUB_REPO]" target="_blank">
+        <a href="https://github.com/SujalAgrawal08/CodeRobo" target="_blank">
           <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
@@ -77,7 +76,34 @@ accuracy.
       <p><b>Key Technologies:</b></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google AI Studio"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="60%" valign="top">
+      <h3>3. Atmanirbhar Hills/h3>
+      <blockquote>
+        Atmanirbhar Hills is a government-backed online retail platform designed to support the vision of Atma Nirbhar Bharat by empowering local sellers in Himachal Pradesh.
+      </blockquote>
+      <p>
+        <a href="https://atmanirbhar-hills-client.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge" alt="Live Demo"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/SujalAgrawal08/Atmanirbhar-Hills" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+        </a>
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <br/>
+      <p><b>Key Technologies:</b></p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS"/>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     </td>
   </tr>
 </table>
