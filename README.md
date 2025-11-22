@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/sujalagrawal08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=googledocs&logoColor=0077B5" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
