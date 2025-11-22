@@ -29,85 +29,89 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h3>1. DocBrief</h3>
-      <blockquote>
-        DocBrief is an AI-powered web application that simplifies lengthy documents into concise, machine-readable summaries. It also provides intelligent chatbot assistance for document-related queries.
-accuracy.
-      </blockquote>
+    <td width="55%" valign="top">
+      <h3 align="left">📄 DocBrief</h3>
+      <p>
+        DocBrief is an AI-powered web application that simplifies lengthy documents into concise, machine-readable summaries. It also provides intelligent chatbot assistance for document-related queries with high accuracy.
+      </p>
       <p>
         <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge" alt="Live Demo"/>
+          <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
         &nbsp;
         <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
     </td>
-    <td width="40%" valign="top">
-      <br/>
-      <p><b>Key Technologies:</b></p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
+    <td width="45%" valign="top">
+      <div align="center">
+        <br/>
+        <p><b>Key Technologies</b></p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+      </div>
     </td>
   </tr>
 
   <tr>
-    <td width="60%" valign="top">
-      <h3>2. CodeRobo</h3>
-      <blockquote>
+    <td width="55%" valign="top">
+      <h3 align="left">🤖 CodeRobo</h3>
+      <p>
         CodeRobo is an AI-powered code generation and collaboration platform. It allows developers to instantly generate full-stack projects, collaborate in real-time, preview code live, and export or deploy their work with a single click.
-      </blockquote>
+      </p>
       <p>
         <a href="https://code-robo.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge" alt="Live Demo"/>
+          <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
         &nbsp;
         <a href="https://github.com/SujalAgrawal08/CodeRobo" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
     </td>
-    <td width="40%" valign="top">
-      <br/>
-      <p><b>Key Technologies:</b></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-      <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google AI Studio"/>
+    <td width="45%" valign="top">
+      <div align="center">
+        <br/>
+        <p><b>Key Technologies</b></p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" alt="Google AI Studio"/>
+      </div>
     </td>
   </tr>
 
   <tr>
-    <td width="60%" valign="top">
-      <h3>3. Atmanirbhar Hills/h3>
-      <blockquote>
+    <td width="55%" valign="top">
+      <h3 align="left">🏔️ Atmanirbhar Hills</h3>
+      <p>
         Atmanirbhar Hills is a government-backed online retail platform designed to support the vision of Atma Nirbhar Bharat by empowering local sellers in Himachal Pradesh.
-      </blockquote>
+      </p>
       <p>
         <a href="https://atmanirbhar-hills-client.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge" alt="Live Demo"/>
+          <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
         &nbsp;
         <a href="https://github.com/SujalAgrawal08/Atmanirbhar-Hills" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </p>
     </td>
-    <td width="40%" valign="top">
-      <br/>
-      <p><b>Key Technologies:</b></p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS"/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <td width="45%" valign="top">
+      <div align="center">
+        <br/>
+        <p><b>Key Technologies</b></p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="ExpressJS"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </div>
     </td>
   </tr>
 </table>
-
 ---
 
 ## My Tech Stack
