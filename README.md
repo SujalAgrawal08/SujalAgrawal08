@@ -6,20 +6,21 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/sujalagrawal08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
+  &nbsp; &nbsp;
   <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank" />
   </a>
+  &nbsp; &nbsp;
   <a href="https://leetcode.com/u/Sujal___Agrawal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
   </a>
+  &nbsp; &nbsp;
   <a href="https://www.geeksforgeeks.org/user/sujalagrawal08/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksForGeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" />
   </a>
 </div>
-
 
 <h2 align="center">Hey there! I’m Sujal Agrawal, currently a pre-final year student at IIIT Una, and I’m on the path to becoming a Software Development Engineer (SDE). I’ve got a solid grip on C++, JavaScript, and the ins and outs of modern full-stack development.</h2>
 
