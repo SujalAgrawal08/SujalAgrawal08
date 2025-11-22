@@ -30,7 +30,7 @@
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3 align="left">📄 DocBrief</h3>
+      <h3 align="left">DocBrief</h3>
       <p>
         DocBrief is an AI-powered web application that simplifies lengthy documents into concise, machine-readable summaries. It also provides intelligent chatbot assistance for document-related queries with high accuracy.
       </p>
@@ -58,7 +58,7 @@
 
   <tr>
     <td width="55%" valign="top">
-      <h3 align="left">🤖 CodeRobo</h3>
+      <h3 align="left">CodeRobo</h3>
       <p>
         CodeRobo is an AI-powered code generation and collaboration platform. It allows developers to instantly generate full-stack projects, collaborate in real-time, preview code live, and export or deploy their work with a single click.
       </p>
@@ -85,7 +85,7 @@
 
   <tr>
     <td width="55%" valign="top">
-      <h3 align="left">🏔️ Atmanirbhar Hills</h3>
+      <h3 align="left">Atmanirbhar Hills</h3>
       <p>
         Atmanirbhar Hills is a government-backed online retail platform designed to support the vision of Atma Nirbhar Bharat by empowering local sellers in Himachal Pradesh.
       </p>
