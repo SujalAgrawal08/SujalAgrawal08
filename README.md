@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=FF46A2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sujal+Agrawal;Apiring+SDE;FULL+Stack+Web+Developer;C%2B%2B+Problem+Solver;Let's+build+something+amazing!" alt="Sujal Agrawal - Software Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=FF46A2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sujal+Agrawal;Aspiring+SDE+!;FULL+Stack+Web+Developer;C%2B%2B+Problem+Solver;Let's+build+something+amazing!" alt="Sujal Agrawal - Software Developer" />
 </div>
 
 ###
