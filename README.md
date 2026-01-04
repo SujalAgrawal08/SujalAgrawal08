@@ -27,7 +27,6 @@
 
 <h2 align="center">Hey there! I’m Sujal Agrawal, currently a pre-final year student at IIIT Una, and I’m on the path to becoming a Software Development Engineer (SDE). I’ve got a solid grip on C++, JavaScript, and the ins and outs of modern full-stack development.</h2>
 
----
 
 ## My Projects
 
