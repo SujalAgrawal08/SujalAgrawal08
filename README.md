@@ -408,19 +408,13 @@ const sujal = {
 
 <br/>
 
-### 💬 *"Great software is built by passionate developers who never stop learning."*
+###  *"Great software is built by passionate developers who never stop learning."*
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
 </div>
-
-<br/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 
 <br/>
 
