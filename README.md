@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SujalAgrawal08&label=Profile%20Views&color=0D1117&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SujalAgrawal08&label=Profile%20Views&color=0D1117&style=for-the-badge&color=00D9FF" alt="Profile Views" />
   <a href="https://github.com/SujalAgrawal08?tab=followers">
     <img src="https://img.shields.io/github/followers/SujalAgrawal08?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub Followers"/>
   </a>
