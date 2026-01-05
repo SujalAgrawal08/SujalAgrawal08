@@ -130,7 +130,7 @@ const sujal = {
 <div align="center">
 
 <!-- SahayakX -->
-<h3>Sahayak</h3>
+<h2>Sahayak</h2>
 
 ### **Bridging Indian Citizens with Government Welfare Schemes through AI**
 
@@ -163,7 +163,7 @@ const sujal = {
 <br/><br/>
 
 <!-- MessMate -->
-<h3>MessMate</h3>
+<h2>MessMate</h2>
 
 ### **A Data-Driven Hostel Mess Management Platform**
 
@@ -198,7 +198,7 @@ const sujal = {
 <br/><br/>
 
 <!-- DocBrief -->
-<h3>DocBrief</h3>
+<h2>DocBrief</h2>
 
 ### **Production-Grade AI SaaS for Document Intelligence**
 
