@@ -224,11 +224,6 @@ const sujal = {
 
 <br/>
 
-<br/>
-<br/>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
@@ -324,24 +319,34 @@ const sujal = {
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SujalAgrawal08&show_icons=true&theme=transparent&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalAgrawal08&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalAgrawal08&layout=compact&theme=transparent&title_color=00D9FF&text_color=FFFFFF&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SujalAgrawal08&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7&title_color=00D9FF" alt="GitHub Trophies"/>
-</p>
-
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+
+<!-- GitHub Streak -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalAgrawal08&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Stats Cards - Alternative using GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujalAgrawal08&theme=github_dark" width="90%" alt="GitHub Profile Summary"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujalAgrawal08&theme=github_dark" width="32%" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SujalAgrawal08&theme=github_dark" width="32%" alt="Most Commit Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujalAgrawal08&theme=github_dark" width="32%" alt="Stats"/>
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalAgrawal08&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
 
 <br/>
 
