@@ -133,7 +133,7 @@ const sujal = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 SahayakX</h3>
+<h2 align="center">SahayakX</h2>
 
 <p align="center">
   <strong>Bridging Indian Citizens with Government Welfare Schemes through AI</strong>
@@ -159,7 +159,7 @@ const sujal = {
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🍽️ MessMate</h3>
+<h2 align="center"> MessMate</h2>
 
 <p align="center">
   <strong>A Data-Driven Hostel Mess Management Platform</strong>
@@ -190,7 +190,7 @@ const sujal = {
 <tr>
 <td valign="top">
 
-<h3 align="center">📄 DocBrief</h3>
+<h2 align="center">DocBrief</h2>
 
 <p align="center">
   <strong>Production-Grade AI SaaS for Document Intelligence</strong>
