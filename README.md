@@ -114,7 +114,7 @@ const sujal = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sujal___Agrawal?theme=dark&font=Nunito&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="80%"/>
+  <img src="https://leetcard.jacoblin.cool/Sujal___Agrawal?theme=dark&font=Nunito&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="60%"/>
 </div>
 
 <br/>
@@ -128,46 +128,47 @@ const sujal = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 DocBrief</h3>
+      <h3 align="center">🤖 SahayakX</h3>
       <div align="center">
-        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
-          <img src="https://img.shields.io/badge/AI_Powered_Document_Summarizer-0D1117?style=for-the-badge" alt="DocBrief"/>
+        <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+          <img src="https://img.shields.io/badge/AI_Government_Scheme_Assistant-0D1117?style=for-the-badge" alt="SahayakX"/>
         </a>
         <p>
-          <strong>AI-powered web application</strong> that simplifies lengthy documents into concise summaries with intelligent chatbot assistance for document-related queries.
+          <strong>Bridging the gap</strong> between Indian citizens and government welfare schemes through AI. Helps users discover, understand, and apply for schemes they're eligible for.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF" alt="React"/>
-          <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=00D9FF" alt="Flask"/>
-          <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00D9FF" alt="HuggingFace"/>
-          <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00D9FF" alt="Vite"/>
+          <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=00D9FF" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=probot&logoColor=00D9FF" alt="Groq"/>
+          <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00D9FF" alt="MongoDB"/>
         </p>
-        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
+        <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
+        <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ CodeRobo</h3>
+      <h3 align="center">🍽️ MessMate</h3>
       <div align="center">
-        <a href="https://code-robo.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/AI_Code_Generation_Platform-0D1117?style=for-the-badge" alt="CodeRobo"/>
+        <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
+          <img src="https://img.shields.io/badge/Hostel_Mess_Management_Platform-0D1117?style=for-the-badge" alt="MessMate"/>
         </a>
         <p>
-          <strong>AI-powered code generation</strong> and collaboration platform with real-time preview, instant full-stack project generation, and one-click deployment.
+          <strong>A Data-Driven</strong> Hostel Mess Management Platform with interactive 3D visualizations, real-time analytics, and smart inventory tracking for efficient mess operations.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=00D9FF" alt="Next.js"/>
-          <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=00D9FF" alt="Tailwind"/>
-          <img src="https://img.shields.io/badge/Gemini_AI-0D1117?style=flat-square&logo=google&logoColor=00D9FF" alt="Gemini"/>
+          <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00D9FF" alt="Vite"/>
+          <img src="https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=three.js&logoColor=00D9FF" alt="Three.js"/>
+          <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL"/>
         </p>
-        <a href="https://code-robo.vercel.app/" target="_blank">
+        <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/SujalAgrawal08/CodeRobo" target="_blank">
+        <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
         </a>
       </div>
@@ -175,25 +176,26 @@ const sujal = {
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🛒 Atmanirbhar Hills</h3>
+      <h3 align="center">📄 DocBrief</h3>
       <div align="center">
-        <a href="https://atmanirbhar-hills-client.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Government_Backed_E--Commerce_Platform-0D1117?style=for-the-badge" alt="Atmanirbhar Hills"/>
+        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
+          <img src="https://img.shields.io/badge/Production_Grade_AI_SaaS_Application-0D1117?style=for-the-badge" alt="DocBrief"/>
         </a>
         <p>
-          <strong>Government-backed online retail platform</strong> designed to support Atma Nirbhar Bharat by empowering local sellers in Himachal Pradesh with a complete e-commerce solution.
+          <strong>A production-grade AI SaaS application</strong> that transforms lengthy PDFs, text files, and scanned images into structured insights using <strong>Generative AI (RAG)</strong> and <strong>Optical Character Recognition (OCR)</strong>. Features intelligent document parsing and conversational AI for document queries.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF" alt="React"/>
-          <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=00D9FF" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=00D9FF" alt="Express"/>
-          <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00D9FF" alt="MongoDB"/>
-          <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=00D9FF" alt="Bootstrap"/>
+          <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00D9FF" alt="Vite"/>
+          <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=00D9FF" alt="Flask"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker"/>
+          <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logo=openai&logoColor=00D9FF" alt="RAG"/>
+          <img src="https://img.shields.io/badge/OCR-0D1117?style=flat-square&logo=google&logoColor=00D9FF" alt="OCR"/>
         </p>
-        <a href="https://atmanirbhar-hills-client.vercel.app/" target="_blank">
+        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/SujalAgrawal08/Atmanirbhar-Hills" target="_blank">
+        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
         </a>
       </div>
