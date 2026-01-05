@@ -359,7 +359,7 @@ const sujal = {
 
 <br/> 
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="80"> Let's Connect!
 
 <br/>
 
