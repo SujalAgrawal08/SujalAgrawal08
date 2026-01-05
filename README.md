@@ -129,49 +129,97 @@ const sujal = {
 
 <div align="center">
 
-<a href="https://github.com/SujalAgrawal08/SahayakX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalAgrawal08&repo=SahayakX&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF" alt="SahayakX" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/SujalAgrawal08/MessMate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalAgrawal08&repo=MessMate&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF" alt="MessMate" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+<h3 align="center">🤖 SahayakX</h3>
 
-<a href="https://github.com/SujalAgrawal08/DocBrief">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalAgrawal08&repo=DocBrief&theme=react&bg_color=0D1117&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&text_color=FFFFFF" alt="DocBrief" />
-</a>
+<p align="center">
+  <strong>Bridging Indian Citizens with Government Welfare Schemes through AI</strong>
+</p>
 
-<br/><br/>
+<p align="center">
+  <em>Intelligent platform helping users discover, understand, and apply for government schemes they're eligible for using AI-powered recommendations.</em>
+</p>
 
-### 🛠️ Tech Stack Used
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <a href="https://sahayakx.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" height="30" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+    <img src="https://img.shields.io/badge/⌨_SOURCE_CODE-00D9FF?style=for-the-badge" height="30" alt="Source Code"/>
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🍽️ MessMate</h3>
+
+<p align="center">
+  <strong>A Data-Driven Hostel Mess Management Platform</strong>
+</p>
+
+<p align="center">
+  <em>Complete mess management solution with interactive 3D visualizations, real-time analytics, smart inventory tracking, and automated meal planning.</em>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,threejs,fastapi,postgresql&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <a href="https://messmate.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" height="30" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
+    <img src="https://img.shields.io/badge/⌨_SOURCE_CODE-00D9FF?style=for-the-badge" height="30" alt="Source Code"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
-<td align="center"><strong>SahayakX</strong></td>
-<td align="center"><strong>MessMate</strong></td>
-<td align="center"><strong>DocBrief</strong></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs,ts,mongodb&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite,threejs,fastapi,postgres&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite,flask,postgres,docker&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://sahayakx.vercel.app/"><img src="https://img.shields.io/badge/▶_DEMO-00D9FF?style=for-the-badge" height="25"/></a>
-</td>
-<td align="center">
-  <a href="https://messmate.vercel.app/"><img src="https://img.shields.io/badge/▶_DEMO-00D9FF?style=for-the-badge" height="25"/></a>
-</td>
-<td align="center">
-  <a href="https://docbrief.vercel.app/"><img src="https://img.shields.io/badge/▶_DEMO-00D9FF?style=for-the-badge" height="25"/></a>
+<td valign="top">
+
+<h3 align="center">📄 DocBrief</h3>
+
+<p align="center">
+  <strong>Production-Grade AI SaaS for Document Intelligence</strong>
+</p>
+
+<p align="center">
+  <em>Transforms lengthy PDFs, text files, and scanned images into structured insights using <strong>Generative AI (RAG)</strong> and <strong>Optical Character Recognition (OCR)</strong>. Features intelligent document parsing and conversational AI.</em>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,flask,postgresql,docker&theme=dark" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <a href="https://docbrief.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" height="30" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
+    <img src="https://img.shields.io/badge/⌨_SOURCE_CODE-00D9FF?style=for-the-badge" height="30" alt="Source Code"/>
+  </a>
+</p>
+
 </td>
 </tr>
 </table>
 
 </div>
+
+<br/>
 
 <br/>
 <br/>
