@@ -329,8 +329,8 @@ const sujal = {
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/SujalAgrawal08/SujalAgrawal08/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+  
+<img src="https://ghchart.rshah.org/00D9FF/SujalAgrawal08" alt="GitHub Contribution Chart" width="100%"/>
 
 <br/><br/>
 
