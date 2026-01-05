@@ -365,7 +365,7 @@ const sujal = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9C%A8+Open+for+Opportunities+%26+Collaborations+%E2%9C%A8" alt="Open for Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Open+for+Opportunities+%26+Collaborations" alt="Open for Opportunities" />
 
 <br/><br/>
 
