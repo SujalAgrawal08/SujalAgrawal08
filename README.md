@@ -149,10 +149,11 @@ const sujal = {
 
 <p align="center">
   <a href="https://sahayakx.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" height="30" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Live Demo"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
-    <img src="https://img.shields.io/badge/⌨_SOURCE_CODE-00D9FF?style=for-the-badge" height="30" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Source Code"/>
   </a>
 </p>
 
@@ -174,11 +175,12 @@ const sujal = {
 </p>
 
 <p align="center">
-  <a href="https://messmate.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" height="30" alt="Live Demo"/>
+  <a href="https://sahayakx.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
-    <img src="https://img.shields.io/badge/⌨_SOURCE_CODE-00D9FF?style=for-the-badge" height="30" alt="Source Code"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Source Code"/>
   </a>
 </p>
 
@@ -205,11 +207,12 @@ const sujal = {
 </p>
 
 <p align="center">
-  <a href="https://docbrief.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" height="30" alt="Live Demo"/>
+  <a href="https://sahayakx.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
-    <img src="https://img.shields.io/badge/⌨_SOURCE_CODE-00D9FF?style=for-the-badge" height="30" alt="Source Code"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Source Code"/>
   </a>
 </p>
 
