@@ -330,7 +330,16 @@ const sujal = {
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SujalAgrawal08&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Total%20Commits-500+-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Commits"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Current%20Streak-30%20Days-00D9FF?style=for-the-badge&logo=fire&logoColor=black" alt="Streak"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Total%20Contributions-1000+-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Contributions"/>
+
+</div>
+
 <br/><br/>
 
 <!-- Stats Cards - Alternative using GitHub Profile Summary Cards -->
