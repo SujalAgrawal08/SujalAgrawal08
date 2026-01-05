@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/sujalagrawal08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=black" height="35" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=black" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing" target="_blank">
