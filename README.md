@@ -330,9 +330,7 @@ const sujal = {
 
 <div align="center">
 
-<!-- GitHub Streak -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SujalAgrawal08&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
+<img width="70%" src="https://streak-stats.demolab.com?user=SujalAgrawal08&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 <br/><br/>
 
 <!-- Stats Cards - Alternative using GitHub Profile Summary Cards -->
