@@ -279,6 +279,44 @@ const sujal = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> What I'm Up To
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> Let's Connect!
 
 <div align="center">
+  <p>
+    <em>"Great software is built by passionate developers who never stop learning."</em>
+  </p>
+  
+  <br/>
+  
+  <a href="https://linkedin.com/in/sujalagrawal08">
+    <img src="https://img.shields.io/badge/Let's_Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sujalagrawal08@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download_Resume-00D9FF?style=for-the-badge&logo=readdotcv&logoColor=0D1117" alt="Resume"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=footer"/>
