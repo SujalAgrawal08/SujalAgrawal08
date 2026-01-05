@@ -330,7 +330,13 @@ const sujal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SujalAgrawal08&show_icons=true&theme=transparent&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&hide_border=true&bg_color=0D1117" width="60%" alt="GitHub Stats"/>
+<div align="center">
+
+<a href="https://skyline.github.com/SujalAgrawal08/2024" target="_blank">
+  <img src="https://img.shields.io/badge/🏙️_VIEW_MY_3D_GITHUB_SKYLINE-00D9FF?style=for-the-badge&logoColor=black" height="45" alt="GitHub Skyline"/>
+</a>
+
+</div>
 
 <br/><br/>
 
