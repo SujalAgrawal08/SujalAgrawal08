@@ -123,46 +123,112 @@ const sujal = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35"> Featured Projects
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40"> Featured Projects
+
+<br/>
 
 <div align="center">
 
-<br>
+<!-- SahayakX -->
+<img src="https://img.shields.io/badge/🤖_SahayakX-00D9FF?style=for-the-badge&logoColor=0D1117" height="40" alt="SahayakX"/>
 
-## 🤖 [SahayakX](https://github.com/SujalAgrawal08/SahayakX)
-**AI-powered platform connecting Indian citizens with government welfare schemes**
+### **Bridging Indian Citizens with Government Welfare Schemes through AI**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb&theme=dark" height="50"/>
+<p align="center">
+  <em>Intelligent platform helping users discover, understand, and apply for government schemes they're eligible for using AI-powered recommendations.</em>
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/SujalAgrawal08/SahayakX)
-
----
-
-## 🍽️ [MessMate](https://github.com/SujalAgrawal08/MessMate)
-**Data-driven hostel mess management with 3D visualizations & real-time analytics**
-
-<p>
-<img src="https://skillicons.dev/icons?i=vite,threejs,fastapi,postgres&theme=dark" height="50"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" title="Next.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/>
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/SujalAgrawal08/MessMate)
-
----
-
-## 📄 [DocBrief](https://github.com/SujalAgrawal08/DocBrief)
-**AI SaaS transforming documents into insights using RAG & OCR**
-
-<p>
-<img src="https://skillicons.dev/icons?i=vite,flask,postgres,docker&theme=dark" height="50"/>
+<p align="center">
+  <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge&logoColor=0D1117" height="35" alt="Live Demo"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" height="35" alt="Source Code"/>
+  </a>
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/SujalAgrawal08/DocBrief)
+<br/>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+
+<br/><br/>
+
+<!-- MessMate -->
+<img src="https://img.shields.io/badge/🍽️_MessMate-00D9FF?style=for-the-badge&logoColor=0D1117" height="40" alt="MessMate"/>
+
+### **A Data-Driven Hostel Mess Management Platform**
+
+<p align="center">
+  <em>Complete mess management solution with interactive 3D visualizations, real-time analytics, smart inventory tracking, and automated meal planning.</em>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite" title="Vite"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50" height="50" alt="Three.js" title="Three.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" title="FastAPI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge&logoColor=0D1117" height="35" alt="Live Demo"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" height="35" alt="Source Code"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+
+<br/><br/>
+
+<!-- DocBrief -->
+<img src="https://img.shields.io/badge/📄_DocBrief-00D9FF?style=for-the-badge&logoColor=0D1117" height="40" alt="DocBrief"/>
+
+### **Production-Grade AI SaaS for Document Intelligence**
+
+<p align="center">
+  <em>Transforms lengthy PDFs, text files, and scanned images into structured insights using <strong>Generative AI (RAG)</strong> and <strong>Optical Character Recognition (OCR)</strong>. Features intelligent document parsing and conversational AI.</em>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite" title="Vite"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" title="Flask"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00D9FF?style=for-the-badge&logoColor=0D1117" height="35" alt="Live Demo"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" height="35" alt="Source Code"/>
+  </a>
+</p>
 
 </div>
+
+<br/>
 
 <br/>
 
