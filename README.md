@@ -125,83 +125,52 @@ const sujal = {
 
 ## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="35"> Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 SahayakX</h3>
-      <div align="center">
-        <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
-          <img src="https://img.shields.io/badge/AI_Government_Scheme_Assistant-0D1117?style=for-the-badge" alt="SahayakX"/>
-        </a>
-        <p>
-          <strong>Bridging the gap</strong> between Indian citizens and government welfare schemes through AI. Helps users discover, understand, and apply for schemes they're eligible for.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=00D9FF" alt="Next.js"/>
-          <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript"/>
-          <img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=probot&logoColor=00D9FF" alt="Groq"/>
-          <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00D9FF" alt="MongoDB"/>
-        </p>
-        <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ MessMate</h3>
-      <div align="center">
-        <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
-          <img src="https://img.shields.io/badge/Hostel_Mess_Management_Platform-0D1117?style=for-the-badge" alt="MessMate"/>
-        </a>
-        <p>
-          <strong>A Data-Driven</strong> Hostel Mess Management Platform with interactive 3D visualizations, real-time analytics, and smart inventory tracking for efficient mess operations.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00D9FF" alt="Vite"/>
-          <img src="https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=three.js&logoColor=00D9FF" alt="Three.js"/>
-          <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL"/>
-        </p>
-        <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">📄 DocBrief</h3>
-      <div align="center">
-        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
-          <img src="https://img.shields.io/badge/Production_Grade_AI_SaaS_Application-0D1117?style=for-the-badge" alt="DocBrief"/>
-        </a>
-        <p>
-          <strong>A production-grade AI SaaS application</strong> that transforms lengthy PDFs, text files, and scanned images into structured insights using <strong>Generative AI (RAG)</strong> and <strong>Optical Character Recognition (OCR)</strong>. Features intelligent document parsing and conversational AI for document queries.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00D9FF" alt="Vite"/>
-          <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=00D9FF" alt="Flask"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL"/>
-          <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker"/>
-          <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logo=openai&logoColor=00D9FF" alt="RAG"/>
-          <img src="https://img.shields.io/badge/OCR-0D1117?style=flat-square&logo=google&logoColor=00D9FF" alt="OCR"/>
-        </p>
-        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🤖 SahayakX
+**Bridging Indian Citizens with Government Welfare Schemes through AI**
+
+> Intelligent platform helping users discover, understand, and apply for government schemes they're eligible for using AI-powered recommendations.
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![Groq](https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logo=probot&logoColor=00D9FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00D9FF)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://github.com/SujalAgrawal08/SahayakX)
+[![Source Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/SujalAgrawal08/SahayakX)
+
+---
+
+### 🍽️ MessMate
+**A Data-Driven Hostel Mess Management Platform**
+
+> Complete mess management solution with interactive 3D visualizations, real-time analytics, smart inventory tracking, and automated meal planning.
+
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=00D9FF)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=00D9FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://github.com/SujalAgrawal08/MessMate)
+[![Source Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/SujalAgrawal08/MessMate)
+
+---
+
+### 📄 DocBrief
+**Production-Grade AI SaaS for Document Intelligence**
+
+> Transforms lengthy PDFs, text files, and scanned images into structured insights using **Generative AI (RAG)** and **Optical Character Recognition (OCR)**. Features intelligent document parsing and conversational AI.
+
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=00D9FF)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D9FF)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://github.com/SujalAgrawal08/DocBrief)
+[![Source Code](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/SujalAgrawal08/DocBrief)
+
+</div>
 
 <br/>
 
