@@ -365,50 +365,58 @@ const sujal = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=50&lines=%F0%9F%9A%80+Looking+for+SDE+Internship+%2F+Full-Time+Roles!" alt="Looking for Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%E2%9C%A8+Open+for+Opportunities+%26+Collaborations+%E2%9C%A8" alt="Open for Opportunities" />
 
-<br/>
+<br/><br/>
 
-<table border="0">
+<table>
 <tr>
-<td align="center" width="200">
+<td align="center">
 <a href="https://linkedin.com/in/sujalagrawal08" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black" height="50" alt="LinkedIn"/>
-<br/><br/>
-<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/>
-<br/>
-<sub><b>Connect on LinkedIn</b></sub>
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black" height="40" alt="LinkedIn"/>
 </a>
+<br/><br/>
+<b>Let's Connect</b>
 </td>
-<td align="center" width="200">
+<td align="center">
 <a href="mailto:sujalagrawal08@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" height="50" alt="Email"/>
-<br/><br/>
-<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40"/>
-<br/>
-<sub><b>Drop a Mail</b></sub>
+<img src="https://img.shields.io/badge/Gmail-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" height="40" alt="Gmail"/>
 </a>
+<br/><br/>
+<b>Hire Me</b>
 </td>
-<td align="center" width="200">
+<td align="center">
 <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=readdotcv&logoColor=black" height="50" alt="Resume"/>
-<br/><br/>
-<img src="https://img.icons8.com/fluency/48/000000/resume.png" width="40"/>
-<br/>
-<sub><b>View Resume</b></sub>
+<img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=readdotcv&logoColor=black" height="40" alt="Resume"/>
 </a>
+<br/><br/>
+<b>Download CV</b>
 </td>
-<td align="center" width="200">
+<td align="center">
 <a href="https://github.com/SujalAgrawal08" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black" height="50" alt="GitHub"/>
-<br/><br/>
-<img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/>
-<br/>
-<sub><b>Follow on GitHub</b></sub>
+<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black" height="40" alt="GitHub"/>
 </a>
+<br/><br/>
+<b>Follow Me</b>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=2&section=header" width="100%"/>
+
+<br/>
+
+### 💬 *"Great software is built by passionate developers who never stop learning."*
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+</div>
+
+<br/>
 
 <br/>
 
