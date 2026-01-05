@@ -330,15 +330,7 @@ const sujal = {
 
 <div align="center">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Total%20Commits-500+-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Commits"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Current%20Streak-30%20Days-00D9FF?style=for-the-badge&logo=fire&logoColor=black" alt="Streak"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Total%20Contributions-1000+-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Contributions"/>
-
-</div>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SujalAgrawal08&show_icons=true&theme=transparent&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&hide_border=true&bg_color=0D1117" width="60%" alt="GitHub Stats"/>
 
 <br/><br/>
 
