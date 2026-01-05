@@ -1,6 +1,6 @@
 <!-- Cyan/Blue Theme README -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Sujal%20Agrawal&fontSize=50&fontColor=00D9FF&animation=twinkling&fontAlignY=35&desc=Aspiring%20SDE%20|%20Full%20Stack%20Developer%20|%20C++%20Problem%20Solver&descAlignY=55&descSize=16&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Sujal%20Agrawal&fontSize=50&fontColor=00D9FF&animation=twinkling&fontAlignY=35&desc=Aspiring%20SDE%20|%20Full%20Stack%20Developer%20|%20Cpp%20Problem%20Solver&descAlignY=55&descSize=16&descColor=FFFFFF"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
