@@ -130,7 +130,7 @@ const sujal = {
 <div align="center">
 
 <!-- SahayakX -->
-<img src="https://img.shields.io/badge/🤖_SahayakX-00D9FF?style=for-the-badge&logoColor=0D1117" height="40" alt="SahayakX"/>
+<h3>Sahayak</h3>
 
 ### **Bridging Indian Citizens with Government Welfare Schemes through AI**
 
@@ -163,7 +163,7 @@ const sujal = {
 <br/><br/>
 
 <!-- MessMate -->
-<img src="https://img.shields.io/badge/🍽️_MessMate-00D9FF?style=for-the-badge&logoColor=0D1117" height="40" alt="MessMate"/>
+<h3>MessMate</h3>
 
 ### **A Data-Driven Hostel Mess Management Platform**
 
@@ -198,7 +198,7 @@ const sujal = {
 <br/><br/>
 
 <!-- DocBrief -->
-<img src="https://img.shields.io/badge/📄_DocBrief-00D9FF?style=for-the-badge&logoColor=0D1117" height="40" alt="DocBrief"/>
+<h3>DocBrief</h3>
 
 ### **Production-Grade AI SaaS for Document Intelligence**
 
