@@ -56,9 +56,9 @@ const sujal = {
     languages: ["C++", "JavaScript", "Python", "TypeScript"],
     
     technologies: {
-        frontEnd: ["React", "Next.js", "Tailwind CSS"],
+        frontEnd: ["React", "Next.js", "Tailwind CSS","Three.js"],
         backEnd: ["Node.js", "Express.js", "Flask", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL","CanvasDB"],
         devOps: ["Docker", "Git", "Linux", "Vercel"],
         ai_ml: ["HuggingFace", "Google Gemini", "LangChain"]
     },
