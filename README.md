@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SujalAgrawal08&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SujalAgrawal08&label=Profile%20Views&color=0D1117&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/SujalAgrawal08?tab=followers">
     <img src="https://img.shields.io/github/followers/SujalAgrawal08?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub Followers"/>
   </a>
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/sujalagrawal08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" height="35" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0D1117" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing" target="_blank">
