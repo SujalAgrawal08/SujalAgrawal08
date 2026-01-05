@@ -330,13 +330,7 @@ const sujal = {
 
 <div align="center">
 
-<div align="center">
-
-<a href="https://skyline.github.com/SujalAgrawal08/2024" target="_blank">
-  <img src="https://img.shields.io/badge/🏙️_VIEW_MY_3D_GITHUB_SKYLINE-00D9FF?style=for-the-badge&logoColor=black" height="45" alt="GitHub Skyline"/>
-</a>
-
-</div>
+<img src="https://raw.githubusercontent.com/SujalAgrawal08/SujalAgrawal08/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 <br/><br/>
 
