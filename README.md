@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=readdotcv&logoColor=00D9FF&labelColor=black" height="35" alt="Resume" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/Sujal___Agrawal/" target="_blank">
+  <a href="https://leetcode.com/u/Sujal___Agrawal" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=00D9FF&labelColor=black" height="35" alt="LeetCode" />
   </a>
   &nbsp;
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-black?style=for-the-badge&logo=geeksforgeeks&logoColor=00D9FF&labelColor=black" height="35" alt="GeeksForGeeks" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/SujalAgrawal" target="_blank">
+  <a href="https://codeforces.com/profile/Sujal___Agrawal" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-black?style=for-the-badge&logo=codeforces&logoColor=00D9FF&labelColor=black" height="35" alt="Codeforces" />
   </a>
   &nbsp;
@@ -61,11 +61,13 @@ const sujal = {
     languages: ["C++", "JavaScript", "Python", "TypeScript"],
     
     technologies: {
-        frontEnd: ["React", "Next.js", "Tailwind CSS","Three.js"],
-        backEnd: ["Node.js", "Express.js", "Flask", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL","CanvasDB"],
-        devOps: ["Docker", "Git", "Linux", "Vercel"],
-        ai_ml: ["HuggingFace", "Google Gemini", "LangChain"]
+        frontend: ["React","Next.js","Tailwind CSS","Recharts"],
+        backend: ["Node.js","Express.js","Flask","FastAPI"],
+        databases: ["PostgreSQL","MongoDB","Supabase","ConvexDB"],
+        devops: ["Docker","Git","GitHub Actions","Linux"],
+        cloud: ["Vercel","Render","Supabase"],
+        ai_ml: ["Hugging Face","RAG","OCR","LangChain","Gemini","Groq"],
+        webgl: ["Three.js"]
     },
     
     currentFocus: "Building AI-Powered Full Stack Apps",
@@ -153,7 +155,7 @@ const sujal = {
 </p>
 
 <p align="center">
-  <a href="https://sahayakx.vercel.app/" target="_blank">
+  <a href="https://sahayakx.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Live Demo"/>
   </a>
   &nbsp;&nbsp;
@@ -180,11 +182,11 @@ const sujal = {
 </p>
 
 <p align="center">
-  <a href="https://sahayakx.vercel.app/" target="_blank">
+  <a href="https://messmate-iiitu.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Live Demo"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+  <a href="https://github.com/SujalAgrawal08/MessMate" target="_blank">
     <img src="https://img.shields.io/badge/%20SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Source Code"/>
   </a>
 </p>
@@ -212,11 +214,11 @@ const sujal = {
 </p>
 
 <p align="center">
-  <a href="https://sahayakx.vercel.app/" target="_blank">
+  <a href="https://docbrief.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/%20LIVE%20DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Live Demo"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/SujalAgrawal08/SahayakX" target="_blank">
+  <a href="https://github.com/SujalAgrawal08/DocBrief" target="_blank">
     <img src="https://img.shields.io/badge/%20SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117&labelColor=0D1117" height="35" alt="Source Code"/>
   </a>
 </p>
