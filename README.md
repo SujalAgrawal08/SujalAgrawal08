@@ -33,10 +33,10 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-black?style=for-the-badge&logo=geeksforgeeks&logoColor=00D9FF&labelColor=black" height="35" alt="GeeksForGeeks" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/Sujal___Agrawal" target="_blank">
+  <!-- <a href="https://codeforces.com/profile/Sujal___Agrawal" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-black?style=for-the-badge&logo=codeforces&logoColor=00D9FF&labelColor=black" height="35" alt="Codeforces" />
-  </a>
-  &nbsp;
+  </a> -->
+  <!-- &nbsp; -->
   <a href="mailto:sujalagrawal08@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=black" height="35" alt="Email" />
   </a>
