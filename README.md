@@ -55,7 +55,7 @@
 
 ```javascript
 const sujal = {
-    education: "Pre-Final Year @ IIIT Una 🎓",
+    education: "Final Year @ IIIT Una 🎓",
     role: "Aspiring Software Development Engineer",
     
     languages: ["C++", "JavaScript", "Python", "TypeScript"],
