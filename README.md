@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Turning+Ideas+into+Elegant+Code;500%2B+DSA+Problems+Solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Turning+Ideas+into+Elegant+Code;900%2B+DSA+Problems+Solved" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=black" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1k1gYxyqQY946MbJ49QRFJKwiw-BxY6Yu/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1F3AIG7rmSBNOfmRQYkg46NVhIp0LbqVf/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=readdotcv&logoColor=00D9FF&labelColor=black" height="35" alt="Resume" />
   </a>
   &nbsp;
