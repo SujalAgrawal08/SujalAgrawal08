@@ -90,12 +90,12 @@ const sujal = {
     <tr>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/96/00D9FF/code.png" width="60px"/>
-        <br/><b style="color:#00D9FF;">500+</b>
+        <br/><b style="color:#00D9FF;">900+</b>
         <br/>DSA Problems Solved
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/96/00D9FF/source-code.png" width="60px"/>
-        <br/><b style="color:#00D9FF;">5+</b>
+        <br/><b style="color:#00D9FF;">10+</b>
         <br/>Full Stack Projects
       </td>
       <td align="center" width="25%">
