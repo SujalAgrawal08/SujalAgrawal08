@@ -121,7 +121,7 @@ const sujal = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sujal___Agrawal?theme=dark&font=Nunito&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="60%"/>
+  <img src="https://leetcard.jacoblin.cool/Sujal___Agrawal?theme=dark&font=Nunito&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="80%"/>
 </div>
 
 <br/>
