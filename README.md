@@ -21,7 +21,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=black" height="35" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1F3AIG7rmSBNOfmRQYkg46NVhIp0LbqVf/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1kngoNgSpeNBsiD2WYoBrFpdFAtwh8i98/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=readdotcv&logoColor=00D9FF&labelColor=black" height="35" alt="Resume" />
   </a>
   &nbsp;
